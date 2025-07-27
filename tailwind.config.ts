@@ -24,6 +24,7 @@ export default {
 				'apple-gray': '#F5F5F7',
 				'apple-dark': '#1D1D1F',
 				'apple-light-gray': '#8E8E93',
+				'apple-green': '#4A7C59',
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
 				ring: 'hsl(var(--ring))',

@@ -61,12 +61,12 @@ const Index = () => {
       </header>
 
       {/* Hero Section */}
-      <section id="home" className="bg-apple-gray py-20">
+      <section id="home" className="py-20" style={{ backgroundColor: '#4A7C59' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-5xl md:text-6xl font-sf-pro font-bold text-apple-dark mb-6 animate-fade-in">
+          <h1 className="text-5xl md:text-6xl font-sf-pro font-bold text-white mb-6 animate-fade-in">
             Apple Gift Cards
           </h1>
-          <p className="text-xl md:text-2xl text-apple-light-gray mb-8 max-w-3xl mx-auto animate-fade-in">
+          <p className="text-xl md:text-2xl text-green-100 mb-8 max-w-3xl mx-auto animate-fade-in">
             Подарите возможность выбора. Наши цифровые подарочные карты Apple — 
             это идеальный подарок для любого повода
           </p>
